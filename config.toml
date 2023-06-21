@@ -185,9 +185,7 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at Actuallyconvenient@gmail.com</p>
-      <a href="mailto:actuallyconvenient@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-      </p>
+    text = """<p class="hidden-sm hidden-xs">Please Do Not Wait.  Contact us TODAY!</p>
       """
 
 [params.mission1]
