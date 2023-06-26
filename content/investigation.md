@@ -6,7 +6,7 @@ title = "Investigation"
 
 
 Would you like us to take a look at your case?  We have advanced knowledge of these scams and have made various connections in this field. We will work diligently for you.
-Do you need a professional consultation to help you recover from this crime?  Please proceed 
+Do you need a professional consultation to help you recover from this crime?  Please proceed to [ELDERLY FRAUD](https://www.elderlyfraud.com)
 
 <br>
 
