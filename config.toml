@@ -74,7 +74,7 @@ pluralizelisttitles = false
  [[menu.topbar]]
      weight = 1
      name = "Phone"
-     url = "tel:+19734040657"
+     url = "tel:9734040657"
      pre = "<i class='fas fa-2x fa-phone'></i>"
 
 # [[menu.topbar]]
